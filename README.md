@@ -13,5 +13,3 @@ HTML Latihan
 <p>&#128512;</p>
 <p>&#128525;</p>
 
-<h2>HTML Image</h2>
-<img src="letsdothis.jpg" alt="Letsdothis" width="460" height="345">
