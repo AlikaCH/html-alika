@@ -16,6 +16,7 @@ HTML Latihan
 <h1>My First Emoji</h1>
 
 <p>&#128512;</p>
+<p>&#128525;</p>
 
 </body>
 </html>
