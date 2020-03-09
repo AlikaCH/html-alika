@@ -8,10 +8,6 @@ HTML Latihan
 <h5>Heading 5</h5>
 <h6>Heading 6</h6>
 
-<html>
-<meta charset="UTF-8">
-<body>
-
 <h1>My First Emoji</h1>
 
 <p>&#128512;</p>
