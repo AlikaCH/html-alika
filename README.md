@@ -12,6 +12,3 @@ HTML Latihan
 
 <p>&#128512;</p>
 <p>&#128525;</p>
-
-</body>
-</html>
