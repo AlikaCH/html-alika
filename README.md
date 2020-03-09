@@ -14,4 +14,4 @@ HTML Latihan
 <p>&#128525;</p>
 
 <h2>HTML Image</h2>
-<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
+<img src="letsdothis.jpg" alt="Letsdothis" width="460" height="345">
