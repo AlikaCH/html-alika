@@ -12,5 +12,3 @@ HTML Latihan
 
 <p>&#128512;</p>
 <p>&#128525;</p>
-
-<img src="https://id.pinterest.com/pin/853291460636021791/" alt="ce0f0f6460000bb3e237211fa7e7373d">
