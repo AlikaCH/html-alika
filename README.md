@@ -8,7 +8,6 @@ HTML Latihan
 <h5>Heading 5</h5>
 <h6>Heading 6</h6>
 
-<!DOCTYPE html>
 <html>
 <meta charset="UTF-8">
 <body>
